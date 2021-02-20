@@ -132,3 +132,5 @@ dmypy.json
 # Vagrant
 .vagrant/
 
+# nohup is a log file, it should not be committed
+nohup.out
