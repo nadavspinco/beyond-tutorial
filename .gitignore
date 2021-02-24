@@ -134,3 +134,6 @@ dmypy.json
 
 # nohup is a log file, it should not be committed
 nohup.out
+
+# db.sqlite3 this file store our applicationdatabase data
+db.sqlite3
